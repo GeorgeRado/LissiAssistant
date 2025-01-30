@@ -1,0 +1,15 @@
+Library/
+Documents/
+Downloads/
+Movies/
+Music/
+Desktop/
+Public/
+Pictures/
+*.jpeg
+*.jpg
+*.png
+*.mp4
+*.mov
+*.zip
+*.dmg
